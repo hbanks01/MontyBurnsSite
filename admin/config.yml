@@ -2,7 +2,7 @@ backend:
   name: github
   repo: hbanks01/MontyBurnsSite # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: greenmonty.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
