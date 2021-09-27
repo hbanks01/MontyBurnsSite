@@ -7,7 +7,7 @@ header_text: I am the Glob-glo-gab-galab, The shwabble-dabble-wabble-gabble
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: /uploads/logo.jpg
+logo: ../uploads/ryan-phillips-pidjfnvoxy0-unsplash.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
