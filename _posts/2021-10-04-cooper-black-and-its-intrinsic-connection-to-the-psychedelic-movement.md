@@ -6,4 +6,10 @@ image: ../uploads/original.jpg-copy.jpg
 title_color: "#ffffff"
 comments: false
 ---
-I haven't ruddy written it yet give me a break
+Album artworks can influence how certain projects permeate throughout culture and font selection is a large aspect of this. There are many iconic artists that have associated themselves with a particular aesthetic for extended periods of time; think of the iconic stylized font used for the AC/DC logo
+
+![](../uploads/acdc_highway_to_hell.jpg "Highway to Hell - AC/DC")
+
+ or the memorable yet minimal trademark font of fellow Australian music project Tame Impala (Microgramma).
+
+![](../uploads/tame_impala_-_the_slow_rush.png)
