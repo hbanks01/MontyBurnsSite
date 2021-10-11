@@ -2,7 +2,7 @@
 layout: post
 title: Cooper Black and its intrinsic connection to the psychedelic movement.
 date: 2021-10-04T10:04:57.235Z
-image: ../uploads/petsoundscover-new.jpg
+image: ../uploads/pet-sounds-banner.jpg
 title_color: "#ffffff"
 comments: false
 ---
