@@ -16,8 +16,10 @@ Album artworks can influence how certain projects permeate throughout culture an
 
 Cooper Black is an eponymous font, named after its creator Oswald Cooper in 1919. It is a fairly low contrast font that is defined by its thick lettering. It is easily legible and recognisable, which album cover artists began to take notice of in during the psychedelic movement of the 60s. All of the sudden, experimental music projects inspired by eastern music methodology and the progressive politics of the hippie movement were using Cooper Black on their album covers. Notable uses include Pet Sounds by the Beach Boys (1966), Freak Out! By Frank Zappa’s The Mothers of Invention (1966) and LA Woman by the Doors (1971).
 
-![](../uploads/la-woman.jpg "L.A. Woman by the Doors (1971)")
 
-![](../uploads/petsoundscover.jpg "Pet Sounds by the Beach Boys (1966)")
 
-![](../uploads/freakout-.jpg "Freak Out! by Frank Zappa's Mothers of Invention (1966)")
+
+
+
+
+![](../uploads/album-art-cooper-black.jpg "Pet Sounds by the Beach Boys (1966), Freak Out! By Frank Zappa’s The Mothers of Invention (1966) and LA Woman by the Doors (1971).")
