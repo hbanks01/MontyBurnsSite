@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cooper Black and its intrinsic connection to the psychedelic movement.
+title: "Cooper Black: the most influential covert art font"
 date: 2021-10-04T10:04:57.235Z
 image: ../uploads/beach-boys-banner.jpg
 title_color: "#ffffff"
