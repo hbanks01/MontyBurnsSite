@@ -24,7 +24,7 @@ The font contrasted itself against the other modernistic fonts of the time with 
 
  Though Cooper Black was featured very prominently on album art in the 60s and 70s, it still influences modern album covers. Some modern examples that I am personally a fan of (both the covers and the music itself) include Channel Orange by Frank Ocean (2012) and Drunk by Thundercat (2017). Both take different directions completely but utilise the dynamic features to accentuate the cover itself. 
 
-![](../uploads/channel-orange-and-drunk.jpg)
+![](../uploads/channel-orange-and-drunk.jpg "Channel Orange by Frank Ocean (2012) and Drunk by Thundercat (2017)")
 
 Drunk features a photo as the main content of the cover, with the title written in Cooper Black at the top centre of the cover. The title is formatted like a throwback album cover, almost treating the project like a film. This aesthetic is matched both by the font and the cover photo, which is unobscured by the title.
 
