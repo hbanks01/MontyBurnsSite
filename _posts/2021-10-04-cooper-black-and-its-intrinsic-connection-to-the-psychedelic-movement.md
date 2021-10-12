@@ -6,13 +6,9 @@ image: ../uploads/beach-boys-banner.jpg
 title_color: "#ffffff"
 comments: false
 ---
-Album artworks can influence how certain projects permeate throughout culture and font selection is a large aspect of this. There are many iconic artists that have associated themselves with a particular aesthetic for extended periods of time; think of the iconic stylized font used for the AC/DC logo
+Album artworks can influence how certain projects permeate throughout culture and font selection is a large aspect of this. There are many iconic artists that have associated themselves with a particular aesthetic for extended periods of time; think of the iconic stylized font used for the AC/DC logo or the memorable yet minimal trademark font of fellow Australian music project Tame Impala (Microgramma).
 
-![](../uploads/acdc_highway_to_hell.jpg "Highway to Hell - AC/DC")
-
- or the memorable yet minimal trademark font of fellow Australian music project Tame Impala (Microgramma).
-
-![](../uploads/tame_impala_-_the_slow_rush.png)
+![](../uploads/highway-to-hell-and-the-slow-rush.jpg "Highway to Hell by AC/DC and The Slow Rush by Tame Impala")
 
 Cooper Black is an eponymous font, named after its creator Oswald Cooper in 1919. It is a fairly low contrast font that is defined by its thick lettering. Cooper himself once referred to his typeface as one “for far-sighted printers with near-sighted customers.” With the evolution of technology and art in the years following, the printers he referenced became artists and other creatives that understood the importance of legibility but also appreciated the soft nature of the font. One of its unique qualities is the balance it strikes between heaviness and delicacy. Not only is it exceptionally legible, it is also dynamic in its application, which album cover artists began to take notice of in during the psychedelic movement of the 60s and 70s. The font itself has often been imitated but never truly equalled, in quality or cultural relevance.
 
