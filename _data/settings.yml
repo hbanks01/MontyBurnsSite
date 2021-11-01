@@ -11,3 +11,6 @@ favicon: ../uploads/ryan-phillips-pidjfnvoxy0-unsplash.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: About the Author
+    siteurl: /aboutme/
