@@ -9,7 +9,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Music has been a passion of mine for almost a decade now, but my knowledge has improved significantly in the last 4 or so years. I generally choose to listen to rock music of many sub-genres but am also partial to other genres like hip hop, R&B, electronic music.
 
