@@ -13,4 +13,4 @@ fixednavbar: false
 upzoom: true
 items:
   - name: About the Author
-    siteurl: /aboutme/
+    siteurl: file:///Users/19059522/Downloads/aboutme/index.html
