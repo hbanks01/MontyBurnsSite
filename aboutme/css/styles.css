@@ -1,0 +1,98 @@
+body {max-width:max-content;
+    background: url(http://www.greenplastic.com/upload/2007/06/stanley/DSCF0144.JPG);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: cover;
+}
+
+h1 {color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+
+h3 {
+    color: rgb(255, 60, 0);
+    background-color: gainsboro;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(255, 60, 0);
+    background-color: gainsboro;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+p {color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size:x-large;
+    text-align:center;
+    font-weight: bold;
+
+}
+
+
+
+h5 {
+    color: rgba(255, 255, 255, 0.979);
+    font-family: monospace;
+   font-size:x-large;
+   text-align:center;
+}
+
+li {
+    float: left;
+    }
+    
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    li a:hover {
+    background-color: rgb(20, 11, 107);
+    }
+    
+    
+    .logo {
+    float: left;
+    width: 85px;
+    height: 57px;
+    border: forestgreen;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 000;
+        padding: 0;
+        overflow: hidden;
+        background-color:rgb(236, 93, 49);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+        text-align: center;
+        }
+
+    h2 {
+        text-align: center;
+        font-family: monospace;
+        font-size:large;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        border-style: groove;
+        border-radius: 50%;
+    }
