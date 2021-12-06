@@ -2,7 +2,8 @@
 layout: post
 title: Genre clichés surrounding typography
 date: 2021-12-06T19:45:13.667Z
-title_color: "#ffffff"
+image: ../uploads/sex-pistols-logo.jpg
+title_color: "#e10d0d"
 comments: false
 ---
 Certain aspects of typography can become particularly significant within a genre. Within this article are some compiled examples of genre-based clichés using typography.
